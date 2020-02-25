@@ -31,8 +31,6 @@ Enhancements:
 Note:
 * Not tested in iOS.
 
-Git Repos:
-url - 
-Author - Anandakarthik
+@@@ Author @@@ - Anandakarthik
 
 
