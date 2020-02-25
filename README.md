@@ -3,10 +3,8 @@
 Commands :
 * npm run debug - install app on your device and starts metro server for debugging
     
-
 * npm run release - it will create standalone apk for release
-    
-    
+        
 Bestpractises Covered:
 * Typscript based developement
 * Global styling - implemented but have to improve
@@ -29,6 +27,7 @@ Extra Functionalities
 
 Enhancements in Pipeline:
 * TDD
+* Error Boundaries
 * Structuring components as Re-usable 
 * Global constants
 * Environment setup for Dev/Staging/Production
