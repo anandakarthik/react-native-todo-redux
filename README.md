@@ -1,11 +1,11 @@
 # react-native-todo-redux
 
 Commands :
-* Dev build - install app on your device and starts metro server for debugging
-        npm run debug
+* npm run debug - install app on your device and starts metro server for debugging
+    
 
-* Release build - it will create standalone apk for release
-        npm run release
+* npm run release - it will create standalone apk for release
+    
     
 Bestpractises Covered:
 * Typscript based developement
