@@ -28,7 +28,7 @@ Extra Functionalities
 * Generice CRUD Todo function implementation
 
 Enhancements in Pipeline:
-* Structure components as Re-usable 
+* Structuring components as Re-usable 
 * Global constants
 * Environment setup for Dev/Staging/Production
 * Path config in package.json
