@@ -20,7 +20,7 @@ Extra Functionalities
 * Organized redux store setup
 * Generice CRUD Todo function implementation
 
-Enhancements to implement:
+Enhancements in Pipeline:
 * Structure components as Re-usable 
 * Global constants
 * Environment setup for Dev/Staging/Production
