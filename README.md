@@ -29,7 +29,7 @@ Enhancements:
 * Token authentication
 
 Note:
-* not tested in iOS.
+* Not tested in iOS.
 
 Git Repos:
 url - 
