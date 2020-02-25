@@ -11,7 +11,7 @@ Bestpractises Covered:
 * Typscript based developement
 * Global styling - implemented but have to improve
 * Project structure
-* Good qualiy code - implemented and have to improve
+* Code quality 
 
 Requirements Covered:
 * Redux Todo App - Add, Delete, Update, List  ,
