@@ -28,6 +28,7 @@ Extra Functionalities
 * Generice CRUD Todo function implementation
 
 Enhancements in Pipeline:
+* TDD
 * Structuring components as Re-usable 
 * Global constants
 * Environment setup for Dev/Staging/Production
