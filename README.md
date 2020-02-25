@@ -1,4 +1,11 @@
 # react-native-todo-redux
+
+Commands :
+* Dev build - install app on your device and starts metro server for debugging
+        npm run debug
+
+* Release build - it will create standalone apk for release
+        npm run release
     
 Bestpractises Covered:
 * Typscript based developement
@@ -30,6 +37,7 @@ Enhancements in Pipeline:
 * Token authentication
 
 Note:
+* Important - do keystore config before build apk (Refer - https://stackoverflow.com/questions/57104357/react-native-task-appvalidatesigningdebug-failed)
 * Not tested in iOS.
 * Screenshots and APK available in repository
 
