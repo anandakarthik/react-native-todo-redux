@@ -30,6 +30,8 @@ Enhancements:
 
 Note:
 * Not tested in iOS.
+* Screenshots and APK available in repository
+
 
 @@@ Author @@@ - Anandakarthik
 
