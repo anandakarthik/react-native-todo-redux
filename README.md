@@ -13,7 +13,7 @@ Bestpractises Covered:
 
 Requirements Covered:
 * Redux Todo App - Add, Delete, Update, List  ,
-* Tab, Stack, Drawer Naviagation,
+* Tab, Stack, Drawer Navigation,
 * Authentication and Signup - Firebase
 * REST API - Firebase REST API with Databases
 * Remember Password
