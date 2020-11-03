@@ -21,7 +21,7 @@ Requirements Covered:
 Extra Functionalities
 * Third party UI library - React native elements
 * User experience improvements
-* Switch Naviagation
+* Switch Navigation
 * Organized redux store setup
 * Generice CRUD Todo function implementation
 
